@@ -1,0 +1,69 @@
+ {
+    "urls": [
+        {
+            "yelp": "https://www.yelp.com/biz/bakersfield-cincinnati-2",
+			"name": "BakersField"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/essen-kitchen-cincinnati-2",
+			"name": "ESSEN"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/the-eagle-cincinnati",
+			"name": "The Eagle"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/maize-cincinnati",
+			"name": "Maize"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/poke-hut-cincinnati",
+			"name": "Poke Hut"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/mr-sushi-cincinnati-2",
+			"name": "Mr Sushi"
+        },
+		{
+            "yelp": "https://www.yelp.com/biz/pieology-pizzeria-cincinnati",
+			"name": "Pieology Pizzeria"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/teak-otr-cincinnati-2",
+			"name": "Teak OKR"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/simply-rolled-ice-cream-cincinnati",
+			"name": "Simply Rolled Ice cream"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/rooted-juicery-and-kitchen-cincinnati-3",
+			"name": "Rooted Juicery and Kitchen"
+        },
+		{
+            "yelp": "https://www.yelp.com/biz/fusabowl-cincinnati-3",
+			"name": "Fusabowl"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/fuel-butler-county?osq=Fuel+Restaurant",
+			"name": "Fuel"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/holtmans-donut-shop-cincinnati",
+			"name": "Holtman's Donut Shop"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/lalo-cincinnati",
+			"name": "Lalo"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/taste-of-belgium-clifton-cincinnati",
+			"name": "Taste of Belgium"
+        },
+        {
+            "yelp": "https://www.yelp.com/biz/citybird-tenders-cincinnati",
+			"name": "CityBird"
+        }
+        
+    ]
+}
